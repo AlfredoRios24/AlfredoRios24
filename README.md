@@ -1,11 +1,10 @@
 <h1 align="center"><b>Hi , I'm Alfredo Ríos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Hello I'm Alfredo Ríos!! 
 Welcome to my litle space in GitHub!!👋
 
 About me
 
-I've made the decision to move into programming because I've discovered, among other things, that I can create different tools that can help improve the user experience and at the same time help me understand how things work.
+I have made the decision to move into programming because I have discovered, among other things, that I can create different tools that can help improve the user experience and at the same time help me understand how things work.
 
 I consider myself a self-taught person, in which I always try to adapt myself to the different situations that arise, assuming them as a challenge and as a problem to be solved.
 
