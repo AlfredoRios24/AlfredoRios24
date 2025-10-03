@@ -1,60 +1,42 @@
-<h1 align="center"><b>Hi , I'm Alfredo Ríos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Alfredo Ríos</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Welcome to my litle space in GitHub!!
+Welcome to my GitHub profile! 🚀  
+Here you’ll find my projects, exercises and experiments as I grow as a **Fullstack Developer**.
 
-About me
+---
 
-I have made the decision to move into programming because I have discovered, among other things, that I can create different tools that can help improve the user experience and at the same time help me understand how things work.
+## 👨‍💻 About Me
+- 🌱 I’m a **self-taught developer** passionate about creating tools that improve user experience and help me understand how technology works.  
+- 🎯 Currently focused on **Java (Spring Boot), React, TypeScript and MySQL**, while also learning about **Testing (JUnit, TDD)** and **cloud basics (AWS)**.  
+- 💼 Before IT, I worked for 8+ years as a **sports coordinator & supervisor**, leading teams of up to 70 people. This gave me strong skills in **leadership, project management and teamwork** that I now bring to software development.  
+- 📚 I believe in continuous learning and love turning challenges into opportunities to grow.  
 
-I consider myself a self-taught person, in which I always try to adapt myself to the different situations that arise, assuming them as a challenge and as a problem to be solved.
+---
 
-Although I have no work experience in programming, I have more than 8 years of experience as a coordinator and supervisor of sports centres. This experience has also given me an ability to organise teams and work with delivery targets
+## 📂 Repository Index
+- [Courses "0..." ](#) → Learning materials and practice.  
+- [Exercises "1..."](#) → Coding challenges and katas.  
+- [Projects "2..."](#) → Personal projects showcasing my skills.  
+- [Profile "3..."](#) → This profile repo and documentation.  
 
-<span> 
-In order to see my repositories...
-  
-- Index repositories:
-  - 0 -> Courses
-  - 1 -> Exercices
-  - 2 -> Projects 
-  - 3 -> Profile 
-</span>
+---
 
-- 🌱 I’m currently learning Git and Wordpress
+## 🛠️ Tech Stack
 
-
-- 📫 How to reach me: alfredoerios_03@hotmail.com
-
-
-## My Skills Include
-
-<h4> Languages </h4>
+<h4>Languages</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,java," />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,java" />
 </p>
 
-<h4> Other Tools and Technologies </h4>
+<h4>Frameworks & Tools</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,spring,mysql,git,github,aws" />
 </p>
 
+---
 
+## 📫 Contact
+- Email: **alfredoerios_03@hotmail.com**  
+- LinkedIn: [linkedin.com/in/alfredo-rios](https://www.linkedin.com/in/alfredo-rios-010860101/)  
+- Portfolio: [My Portfolio](https://tu-portafolio-link.com)  
 
-<!--
-**AlfredoRios24/AlfredoRios24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
